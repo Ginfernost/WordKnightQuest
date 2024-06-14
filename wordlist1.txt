@@ -1,0 +1,92 @@
+cat, A furry friend that says "meow"
+dog, A loyal pet that says "woof"
+cow, A big animal that gives us milk
+bat, A flying mammal that comes out at night
+ant, A tiny insect that works in groups
+pig, A farm animal that likes mud
+elk, A large deer with big antlers
+jay, A colorful bird with a loud call
+yak, A hairy mammal found in mountains
+ape, A smart animal without a tail
+fox, A clever animal with a bushy tail
+rat, A small rodent with a long tail
+owl, A bird that sees well in the dark
+emu, A bird that can't fly, from Australia
+roe, Fish eggs used for food
+fly, A small insect that flies around
+hen, A female chicken that lays eggs
+wap, An old word for a bundle of hay
+hog, Another name for a pig
+cod, A type of fish used in cooking
+jay, A colorful bird with a loud call
+elk, A large deer with big antlers
+cat, A furry friend that says "meow"
+dog, A loyal pet that says "woof"
+cow, A big animal that gives us milk
+bat, A flying mammal that comes out at night
+ant, A tiny insect that works in groups
+pig, A farm animal that likes mud
+rat, A small rodent with a long tail
+ape, A smart animal without a tail
+fox, A clever animal with a bushy tail
+owl, A bird that sees well in the dark
+fly, A small insect that flies around
+yak, A hairy mammal found in mountains
+crab, A sea animal with a hard shell
+deer, A graceful animal with antlers
+duck, A bird that swims and quacks
+lion, A big cat that roars
+mule, A mix between a horse and a donkey
+swan, A beautiful bird that glides on water
+bear, A big, furry animal that hibernates
+crow, A black bird known for its caw
+fish, Animals that live in water
+goat, A farm animal that eats almost anything
+seal, A mammal that lives in the ocean
+crab, A sea animal with a hard shell
+deer, A graceful animal with antlers
+duck, A bird that swims and quacks
+lion, A big cat that roars
+mule, A mix between a horse and a donkey
+swan, A beautiful bird that glides on water
+bear, A big, furry animal that hibernates
+crow, A black bird known for its caw
+fish, Animals that live in water
+goat, A farm animal that eats almost anything
+seal, A mammal that lives in the ocean
+crab, A sea animal with a hard shell
+deer, A graceful animal with antlers
+duck, A bird that swims and quacks
+lion, A big cat that roars
+mule, A mix between a horse and a donkey
+swan, A beautiful bird that glides on water
+bear, A big, furry animal that hibernates
+crow, A black bird known for its caw
+fish, Animals that live in water
+goat, A farm animal that eats almost anything
+seal, A mammal that lives in the ocean
+snake, A long reptile without legs
+whale, A huge mammal that lives in the ocean
+horse, A large animal often used for riding
+zebra, A striped animal from Africa
+tiger, A big cat with stripes
+panda, A bear with black and white fur
+rhino, A large animal with a horn on its nose
+gecko, A small lizard that can climb walls
+snake, A long reptile without legs
+whale, A huge mammal that lives in the ocean
+eagle, A bird known for its sharp eyes
+horse, A large animal often used for riding
+zebra, A striped animal from Africa
+tiger, A big cat with stripes
+panda, A bear with black and white fur
+rhino, A large animal with a horn on its nose
+gecko, A small lizard that can climb walls
+snake, A long reptile without legs
+whale, A huge mammal that lives in the ocean
+eagle, A bird known for its sharp eyes
+horse, A large animal often used for riding
+zebra, A striped animal from Africa
+tiger, A big cat with stripes
+rhino, A large animal with a horn on its nose
+gecko, A small lizard that can climb walls
