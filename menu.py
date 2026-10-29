@@ -23,7 +23,7 @@ def show_menu():
     running = True
 
     # Load the background image
-    background = pygame.image.load("menu.jpg").convert()
+    background = pygame.image.load("Menu.jpg").convert()
 
     while running:
         for event in pygame.event.get():

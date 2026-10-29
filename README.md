@@ -33,7 +33,7 @@ Notes:
 
 - The game opens in full screen. Use the in-game Quit button to leave.
 - Stage 5 sends your recording to Google's free speech recognition service, so it needs an internet connection.
-- I built and tested it on Windows. On macOS or Linux, rename `Menu.jpg` to `menu.jpg` first, because those systems care about capital letters in file names.
+- I built and tested it on Windows. It should also run on macOS and Linux.
 
 ## Built with
 
